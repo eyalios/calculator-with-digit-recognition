@@ -1,4 +1,4 @@
-calculator app, can recieve input from user by drawing digits.
+A calculator app, which uses several computer vision (including deep learning) techniques to work with hand written input. 
 digits can be recognized either by:
 <br>1.a self implemented SVM.
 <br>2.using SVM from sklearn
